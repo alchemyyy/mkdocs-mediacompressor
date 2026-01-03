@@ -1,0 +1,4 @@
+Metadata-Version: 2.1
+Name: mkdocs-plugin-mediacompressor
+Version: 0.1
+Summary: MkDocs plugin to compress images and videos in the built site

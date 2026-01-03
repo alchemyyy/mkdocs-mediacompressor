@@ -1,0 +1,8 @@
+setup.py
+mkdocs_plugin_mediacompressor.egg-info/PKG-INFO
+mkdocs_plugin_mediacompressor.egg-info/SOURCES.txt
+mkdocs_plugin_mediacompressor.egg-info/dependency_links.txt
+mkdocs_plugin_mediacompressor.egg-info/entry_points.txt
+mkdocs_plugin_mediacompressor.egg-info/requires.txt
+mkdocs_plugin_mediacompressor.egg-info/top_level.txt
+plugin_mediacompressor/plugin.py
